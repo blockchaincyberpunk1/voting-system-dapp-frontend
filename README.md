@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+# Voting System DApp Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&?style=plastic&logo=appveyor)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+![GitHub repo size](https://img.shields.io/github/repo-size/yourUsername/voting-system-dapp)
+![GitHub top language](https://img.shields.io/github/languages/top/yourUsername/voting-system-dapp)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table Of Content
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Description](#description)
+- [Technology](#technology)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tools and Libraries](#tools-and-libraries)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [License](#license)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Description
 
-### `npm run build`
+The Voting System DApp is a decentralized application that enables secure and transparent voting on the Ethereum blockchain. It utilizes smart contracts to ensure the integrity of votes, making it an excellent tool for elections or decision-making processes within decentralized communities.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technology
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **React**: For building the user interface.
+- **Ethers.js**: A library to interact with the Ethereum blockchain.
+- **Bootstrap**: For styling the application.
+- **MetaMask**: As the Ethereum wallet provider.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<p>Deployed website: <strong><a href="https://blockchaincyberpunk1.github.io/voting-system-dapp-frontend">https://blockchaincyberpunk1.github.io/voting-system-dapp-frontend</a></strong>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="center">
+  <img alt="Voting System DApp Screenshot" [Screenshot] src="./public/screenshot.png"><br>
+Voting System DApp Interface
+</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To run this project, follow these steps:
 
-## Learn More
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/blockchaincyberpunk1/voting-system-dapp-frontend.git
+   cd voting-system-dapp-frontend
+   ```
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+3. **Run the application**:
+    ```bash
+    npm start
+    ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tools and Libraries
 
-### Code Splitting
+- **React**: JavaScript library for building user interfaces.
+- **ethers.js**: A complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+- **Bootstrap**: Extensive list of components and Bundled Javascript plugins.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Usage
+ 
+To use the app:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Ensure MetaMask is installed and logged in.
+2. Visit the application URL (usually http://localhost:3000).
+3. Interact with the application to cast your vote.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contribution
+ 
+Contributions are welcome! Please feel free to submit any issues or pull requests.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contact
 
-### Deployment
+Feel free to reach out to me on my email:
+thepolyglot8@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![License](https://img.shields.io/static/v1?label=Licence&message=MIT&color=blue)](https://opensource.org/license/MIT)
+
+
